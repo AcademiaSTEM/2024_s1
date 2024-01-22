@@ -3,8 +3,6 @@
 </template>
 
 <script>
-import router from '../router';
-
 export default {
   name: 'MenuBar',
   data() {
@@ -13,7 +11,7 @@ export default {
         {
           icon: 'pi pi-home',
           label: 'Inicio',
-          command: () => router.push({ path: '/' }),
+          url: '/2024_s1',
         },
       ],
     };
