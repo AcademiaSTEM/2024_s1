@@ -4,6 +4,7 @@
       <header>
         <h4>STEM UC: Academia para escolares</h4>
         <h1>Primeros pasos en programación</h1>
+        <p>Primera semana, 2024</p>
       </header>
 
       <Divider />
